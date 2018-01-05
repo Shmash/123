@@ -1,8 +1,8 @@
 globaldriver amdgpu
 globalpowertune 4
-maxgputemp 80
+maxgputemp 75
 globalminer claymore
-globalfan 80
+globalfan 75
 stratumproxy enabled
 proxywallet 0x3d3b8e1d922409898a35dc2429bede234839778d
 proxypool1 pool-eu.ethosdistro.com:5001
