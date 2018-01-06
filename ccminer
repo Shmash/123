@@ -34,7 +34,7 @@
 -dpool stratum+tcp://dcr.suprnova.cc:3252
 -dwal dalseng.haltern
 -dcoin dcr
-#-dpsw x
+-dpsw x
 #-esm 1
 #-mode 0
 #-tt 70
