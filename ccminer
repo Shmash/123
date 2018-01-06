@@ -19,3 +19,4 @@
     -eworker haltern
     -dpool stratum+tcp://dcr.suprnova.cc:3252
     -dwal DsXqc5SHsfhmcqx35H5TcnX3CwAPnF8PwFS
+    -dworker dalseng.haltern
