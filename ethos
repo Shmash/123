@@ -1,12 +1,17 @@
 globalminer claymore
-globaldriver amdgpu
-maxgputemp 75
-globalfan 75
+
+maxgputemp 85
+
 stratumproxy enabled
-proxywallet 0x3d3b8e1d922409898a35dc2429bede234839778d
-proxypool1 eth-eu.dwarfpool.com:8008
-proxypool2 eth-us.dwarfpool.com:8008
+
+#proxywallet 0x5fc3f88390ec62cbefd78abedf8eff95823bf8f7
+
+#proxypool1 stratum+tcp://eth-eu.dwarfpool.com:8008
+
 flags --cl-global-work 8192 --farm-recheck 200
+
+globalfan 85
+ethi 28
 
 # ethOS Pool: ethosdistro.com/pool
 # QUICK START GUIDE: ethosdistro.com/Q
