@@ -21,3 +21,7 @@ $ sudo service cron restart
 ```
 
 FERDIG!
+
+### TODO
+- finn ut hva som er globalt for alle miners
+- finn ut hva som er individuelt for hver miner.
