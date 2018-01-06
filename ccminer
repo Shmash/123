@@ -13,8 +13,7 @@
 -ewal 0x5fc3f88390ec62cbefd78abedf8eff95823bf8f7
 
 -epsw x
-
--eworker haltern
+# -eworker haltern
 
 -allpools 1
 
@@ -32,9 +31,11 @@
 #-ewal 0xD69af2A796A737A103F12d2f0BCC563a13900E6F
 #-epsw x
 -dpool stratum+tcp://dcr.suprnova.cc:3252
--dwal dalseng.haltern
+# -dwal dalseng.haltern
 -dcoin dcr
 -dpsw x
 #-esm 1
 #-mode 0
 #-tt 70
+
+# WORKERNAME HAS TO BE SET BY A SCRIPT -
