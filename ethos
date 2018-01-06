@@ -4,8 +4,8 @@ maxgputemp 75
 globalfan 75
 stratumproxy enabled
 proxywallet 0x3d3b8e1d922409898a35dc2429bede234839778d
-proxypool1 pool-eu.ethosdistro.com:5001
-proxypool2 pool-usa.ethosdistro.com:5001
+proxypool1 eth-eu.dwarfpool.com:8008
+proxypool2 eth-us.dwarfpool.com:8008
 flags --cl-global-work 8192 --farm-recheck 200
 
 # ethOS Pool: ethosdistro.com/pool
