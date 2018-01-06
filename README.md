@@ -6,6 +6,7 @@ $ cd confgGit
 $ git clone https://github.com/Shmash/123.git
 $ cd 123
 $ cp update.sh ../
+$ cd ..
 $ chmod +x update.sh
 $ ./update.sh [eworker] [dwal]
 $ cd ~
