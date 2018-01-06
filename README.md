@@ -10,7 +10,7 @@ $ ln -s configGit/123/ccminer claymore.stub.conf
 $ crontab -e
 ```
 Legg til dette:
-`*/ * * * * /home/ethos/configGit/update.sh`
+`*/1 * * * * /home/ethos/configGit/update.sh`
 
 ```bash
 $ sudo service cron restart
