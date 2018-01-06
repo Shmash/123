@@ -1,20 +1,21 @@
+
 # OERJAN HAR OPPDATERT
 # WARNING! Remove "#" characters to enable lines, with "#" they are disabled and will be ignored by miner! Check README for details.
 # WARNING! Miner loads options from this file only if there are not any options in the command line!
--colors 0
--dgb -1
--esm STRATUMTYPE
--allpools 1
--gser 2
--allcoins 1
--wd 0
--mode 0
--tt 1
--dcoin sia
--dcri 20
+    -colors 0
+    -dgb -1
+    -esm STRATUMTYPE
+    -allpools 1
+    -gser 2
+    -allcoins 1
+    -wd 0
+    -mode 0
+    -tt 1
+    -dcoin dcr
+    -dcri 20
 
--epool pool-eu.ethosdistro.com:5001
--ewal 0x3d3b8e1d922409898a35dc2429bede234839778d
--eworker dalseng.haltern
--dpool stratum+tcp://dcr.suprnova.cc:3252
--dwal DsXqc5SHsfhmcqx35H5TcnX3CwAPnF8PwFS
+    -epool eth-eu.dwarfpool.com:8008
+    -ewal 0x3d3b8e1d922409898a35dc2429bede234839778d
+    -eworker haltern
+    -dpool stratum+tcp://dcr.suprnova.cc:3252
+    -dwal DsXqc5SHsfhmcqx35H5TcnX3CwAPnF8PwFS
