@@ -1,7 +1,6 @@
-globaldriver amdgpu
-globalpowertune 4
-maxgputemp 75
 globalminer claymore
+globaldriver amdgpu
+maxgputemp 75
 globalfan 75
 stratumproxy enabled
 proxywallet 0x3d3b8e1d922409898a35dc2429bede234839778d
