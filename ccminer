@@ -28,9 +28,9 @@
 
 #-ewal 0xD69af2A796A737A103F12d2f0BCC563a13900E6F
 #-epsw x
--dpool stratum+tcp://dcr.suprnova.cc:3252
+-dpool stratum+tcp://lbry.suprnova.cc:6256
 
--dcoin dcr
+-dcoin lbry
 -dpsw x
 #-esm 1
 #-mode 0
