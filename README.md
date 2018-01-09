@@ -8,9 +8,8 @@ $ cd 123
 $ cp update.sh ../
 $ cd ..
 $ chmod +x update.sh
-$ ./update.sh [eworker] [dwal]
+$ ./update.sh force [eworker] [dwal]
 $ cd ~
-$ ln -s configGit/ccminer claymore.stub.conf
 $ crontab -e
 ```
 Legg til dette:
