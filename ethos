@@ -12,6 +12,7 @@ flags --cl-global-work 8192 --farm-recheck 200
 
 globalfan 85
 ethi 28
+claymore=flags -wd 1 -r 1
 
 # ethOS Pool: ethosdistro.com/pool
 # QUICK START GUIDE: ethosdistro.com/Q
